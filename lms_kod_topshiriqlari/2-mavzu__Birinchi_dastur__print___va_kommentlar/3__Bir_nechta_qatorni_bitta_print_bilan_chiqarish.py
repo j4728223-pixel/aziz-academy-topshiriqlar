@@ -1,1 +1,0 @@
-print("Bugungi reja:\n1. Python o'rnatish\n2. Birinchi dastur")

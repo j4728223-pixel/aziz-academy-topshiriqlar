@@ -1,1 +1,0 @@
-print("Python oson emas")

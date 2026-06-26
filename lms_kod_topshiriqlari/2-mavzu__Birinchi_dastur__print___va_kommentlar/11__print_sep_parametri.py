@@ -1,1 +1,0 @@
-print("Python", 1, "dars", sep="-")

@@ -1,1 +1,0 @@
-print("Dars jadvali\nDushanba\nSeshanba\nChorshanba")
