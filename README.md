@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — QURBONOV JASUR
+# 🎓 Aziz Academy — Qurbonov Jasur
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **0%**  (0/179 mavzu)
 
-- ⭐ Jami ball: **13654**
-- 📤 GitHubga yuborilgan topshiriqlar: **135**
+- ⭐ Jami ball: **13992**
+- 📤 GitHubga yuborilgan topshiriqlar: **136**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-16 07:05</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-18 06:51</sub>
