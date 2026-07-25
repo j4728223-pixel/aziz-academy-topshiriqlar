@@ -1,5 +1,8 @@
 ism = input()
-yosh = int(input())
+yosh = input()
 
-print(f"Ism: {ism}")
-print(f"Yosh: {yosh}")
+print("Ism:", ism)
+print("Yosh:", yosh)
+# 1-qator: ism
+# 2-qator: yosh (butun son)
+# "Ism: <ism>" va "Yosh: <yosh>" ko'rinishida ikki qatorda chiqarib bering.
