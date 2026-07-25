@@ -1,5 +1,7 @@
-narx, miqdor = map(int, input().split())
+narx, miqdor = input().split()
+jami = int(narx) * int(miqdor)
+print("Jami:", jami)
 
-jami = narx * miqdor
-
-print(f"Jami: {jami}")
+# Bir qatorda mahsulot narxi (butun) va miqdorini (butun) kiriting.
+# Jami = narx * miqdor
+# "Jami: <qiymat>" ko'rinishida chiqaring.
