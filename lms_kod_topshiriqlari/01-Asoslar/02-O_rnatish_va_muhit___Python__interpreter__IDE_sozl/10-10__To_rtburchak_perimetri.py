@@ -1,0 +1,4 @@
+# Kodingizni shu yerga yozing
+a = int(input())
+b = int(input())
+print(2 * (a + b))
