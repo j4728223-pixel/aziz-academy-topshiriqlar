@@ -6,19 +6,19 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **1%**  (1/179 mavzu)
 
-- ⭐ Jami ball: **15937**
-- 📤 GitHubga yuborilgan topshiriqlar: **158**
+- ⭐ Jami ball: **16286**
+- 📤 GitHubga yuborilgan topshiriqlar: **159**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar**
+**MODUL 1 — Asoslar** → **Dasturlashga kirish — Python nima va nega o'rganamiz**
 
-➡️ Keyingi mavzu: *Dasturlashga kirish — Python nima va nega o'rganamiz*
+➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ⬜ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz  ← yetgan joyingiz
 - ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
 - ⬜ Birinchi dastur ⭐ — print() va kommentlar
 - ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-23 07:34</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-25 06:14</sub>
