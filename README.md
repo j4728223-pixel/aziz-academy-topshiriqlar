@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **3%**  (5/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **3%**  (6/179 mavzu)
 
-- ⭐ Jami ball: **18535**
-- 📤 GitHubga yuborilgan topshiriqlar: **174**
+- ⭐ Jami ball: **19168**
+- 📤 GitHubga yuborilgan topshiriqlar: **175**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Sonlar: int va float — butun va kasr sonlar**
+**MODUL 1 — Asoslar** → **Stringlar — kirish: matn, qo'shtirnoqlar, len()**
 
-➡️ Keyingi mavzu: *Stringlar — kirish: matn, qo'shtirnoqlar, len()*
+➡️ Keyingi mavzu: *Bool va mantiq — True/False, mantiqiy ifodalar*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -22,8 +22,8 @@
 - ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
 - ✅ Birinchi dastur ⭐ — print() va kommentlar
 - ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ✅ Sonlar: int va float — butun va kasr sonlar  ← yetgan joyingiz
-- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()  ← yetgan joyingiz
 - ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
 - ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
 - ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `███░░░░░░░` 33% | 5/15 |
+| 1 | 🔸 Asoslar | `████░░░░░░` 40% | 6/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-28 06:47</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-01 06:10</sub>
