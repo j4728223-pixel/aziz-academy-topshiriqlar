@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **5%**  (9/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **6%**  (10/179 mavzu)
 
-- ⭐ Jami ball: **23236**
-- 📤 GitHubga yuborilgan topshiriqlar: **215**
+- ⭐ Jami ball: **23241**
+- 📤 GitHubga yuborilgan topshiriqlar: **216**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Arifmetik operatorlar — + - * / // % ** va prioritet**
+**MODUL 1 — Asoslar** → **Mantiqiy operatorlar — and, or, not**
 
-➡️ Keyingi mavzu: *Mantiqiy operatorlar — and, or, not*
+➡️ Keyingi mavzu: *Solishtirish operatorlari — == != > < >= <=*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -26,8 +26,8 @@
 - ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
 - ✅ Bool va mantiq — True/False, mantiqiy ifodalar
 - ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
-- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet  ← yetgan joyingiz
-- ⬜ Mantiqiy operatorlar — and, or, not
+- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ✅ Mantiqiy operatorlar — and, or, not  ← yetgan joyingiz
 - ⬜ Solishtirish operatorlari — == != > < >= <=
 - ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
 - ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `██████░░░░` 60% | 9/15 |
+| 1 | 🔸 Asoslar | `███████░░░` 67% | 10/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
