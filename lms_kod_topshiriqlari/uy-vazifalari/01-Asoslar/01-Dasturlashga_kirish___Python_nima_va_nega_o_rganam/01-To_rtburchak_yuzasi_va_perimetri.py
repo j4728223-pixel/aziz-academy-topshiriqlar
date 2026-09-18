@@ -1,8 +1,5 @@
-a = int(input())
-b = int(input())
+en = int(input())
+boy = int(input())
 
-jami = a * b
-yakuniy = 2 * (a + b)
-
-print(jami)
-print(yakuniy)
+print(en * boy)
+print(2 * (en + boy))
