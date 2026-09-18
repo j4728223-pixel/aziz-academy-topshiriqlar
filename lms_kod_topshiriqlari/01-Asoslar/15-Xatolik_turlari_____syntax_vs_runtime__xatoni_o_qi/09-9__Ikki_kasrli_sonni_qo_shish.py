@@ -1,0 +1,4 @@
+# Kodingizni shu yerga yozing
+a = float(input())
+b = float(input())
+print(a + b)
