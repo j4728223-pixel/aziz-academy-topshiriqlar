@@ -4,16 +4,14 @@
 
 ## 📊 Umumiy progress
 
-`██░░░░░░░░░░░░░░░░░░` **8%**  (14/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **8%**  (15/179 mavzu)
 
-- ⭐ Jami ball: **25491**
-- 📤 GitHubga yuborilgan topshiriqlar: **277**
+- ⭐ Jami ball: **25496**
+- 📤 GitHubga yuborilgan topshiriqlar: **278**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik**
-
-➡️ Keyingi mavzu: *Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish*
+**MODUL 1 — Asoslar** → **Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish**
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -31,8 +29,8 @@
 - ✅ Solishtirish operatorlari — == != > < >= <=
 - ✅ Type casting ⭐ — type(), int(), float(), str(), bool()
 - ✅ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
-- ✅ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik  ← yetgan joyingiz
-- ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
+- ✅ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
+- ✅ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish  ← yetgan joyingiz
 
 </details>
 
@@ -40,7 +38,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█████████░` 93% | 14/15 |
+| 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +61,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-18 08:35</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-18 08:37</sub>
