@@ -1,7 +1,7 @@
-dona_soni = int(input())
+dona = int(input())
 narx = int(input())
 
-umumiy = dona_soni * narx
+umumiy = dona * narx
 soliqli = umumiy + umumiy // 10
 
 print(umumiy)
