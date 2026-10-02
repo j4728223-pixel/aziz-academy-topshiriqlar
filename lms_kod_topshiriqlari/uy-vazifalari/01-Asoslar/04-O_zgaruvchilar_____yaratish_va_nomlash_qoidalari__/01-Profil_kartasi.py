@@ -1,6 +1,12 @@
+ism = "Aziz"
+familiya = "Karimov"
+kurs = "Python"
+daraja = "Boshlang'ich"
+shahar = "Toshkent"
+
 print("=== PROFIL ===")
-print("Ism: Aziz")
-print("Familiya: Karimov")
-print("Kurs: Python")
-print("Daraja: Boshlang'ich")
-print("Shahar: Toshkent")
+print(f"Ism: {ism}")
+print(f"Familiya: {familiya}")
+print(f"Kurs: {kurs}")
+print(f"Daraja: {daraja}")
+print(f"Shahar: {shahar}")
