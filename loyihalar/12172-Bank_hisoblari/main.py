@@ -8,7 +8,7 @@ while True:
     if not buyruq:
         continue
         
-        qismlar = buyruq.split(maxplit=1)
+        qismlar = buyruq.split(maxsplit=1)
         amall = qismlar[0]
         
         if amall == "och" and len(qismlar) > 1:
