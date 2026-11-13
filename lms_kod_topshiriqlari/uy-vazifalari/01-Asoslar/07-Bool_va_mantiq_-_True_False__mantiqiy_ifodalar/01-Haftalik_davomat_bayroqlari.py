@@ -1,0 +1,10 @@
+dushanba=True
+seshanba=True
+chorshanba=False
+payshanba=True
+juma=False
+print("Dushanba:",dushanba)
+print("Seshanba:",seshanba)
+print("Chorshanba:",chorshanba)
+print("Payshanba:",payshanba)
+print("Juma:",juma)
